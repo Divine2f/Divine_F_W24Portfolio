@@ -23,7 +23,7 @@ Navigation: Easy-to-use navigation that allows visitors to quickly find the info
 Contact Form: A contact form for visitors to get in touch with me directly from the website.
 
 ### Technologies Used
-HTML, CSS, JavaScript, and frameworks/libraries like React.js or Angular (as applicable).
+HTML, CSS, JavaScript, and frameworks/libraries like SCSS (as applicable).
 
 Deployment: Information on how the website is hosted and deployed (e.g., via GitHub Pages, AWS, Heroku).
 
